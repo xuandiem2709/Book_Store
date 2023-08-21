@@ -1,0 +1,252 @@
+{
+    "Bestsellers": [
+        {
+            "bookTitle": "Sebastian Barry: Old Gods Time Tpb [2023] paperback",
+            "bookPrice": "12.99",
+            "available": "19",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/products/barry-sebastian-old-gods-time-tpb-9780571332786-40443403764002.jpg?",
+            "bookDescription": "TWICE WINNER OF THE COSTA BOOK OF THE YEAR''Full of love and heartache, this is an unforgettable novel from one of our finest writers.'' DOUGLAS STUART ''Shocking, stunning and extraordinarily brave. Barry has once again written a character for the ages.'' LIZ..."
+        },
+        {
+            "bookTitle": "Elaine Feeney: How to Build a Boat [2023] paperback",
+            "bookPrice": "14.99",
+            "available": "19",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/products/feeney-elaine-how-to-build-a-boat-9781787303461-40650323263778_360x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Rebecca F Kuang: Yellowface [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/products/kuang-rebecca-f-yellowface-9780008532789-49010814222675_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Tan Twan Eng: House Of Doors The [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/products/eng-tan-twan-the-house-of-doors-9781838858308-49010856362323_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Kate Mosse: The Ghost Ship [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/files/mosse-kate-kate-mosse-the-ghost-ship-2023-paperback-9781509806928-51080897790291_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Paul Williams: The Monk [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/files/williams-paul-monk-the-the-life-and-crimes-of-i-9781805460312-51080928461139_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        }
+    ],
+    "Coming Soon Books":[
+        {
+            "bookTitle": "Boatclub Blindboy: Topographia Hibernica [2023] hardback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/files/blindboy-boatclub-boatclub-blindboy-topographia-hibernica-2023-hardback-9781529371628-50717780803923_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Aisling Ever After",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/files/unknown-aisling-ever-after-9780717182671-51308982960467_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Sean Quinn: In My Own Words [2023]",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/files/quinn-sean-sean-quinn-in-my-own-words-2023-9781786051912-51597956612435_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Tan Twan Eng: House Of Doors The [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/products/eng-tan-twan-the-house-of-doors-9781838858308-49010856362323_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Kate Mosse: The Ghost Ship [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/files/mosse-kate-kate-mosse-the-ghost-ship-2023-paperback-9781509806928-51080897790291_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Paul Williams: The Monk [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/files/williams-paul-monk-the-the-life-and-crimes-of-i-9781805460312-51080928461139_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        }
+    ],
+    "New Release": [
+        {
+            "bookTitle": "Books Biographies 6 Book Mystery Box - New Books",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/products/chapters-bookstore-biographies-6-book-mystery-box-new-books-40989483958562_540x.png",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Eleanor Catton: Birnam Wood [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/products/catton-eleanor-birnam-wood-9781783784271-40598591832354_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "HB Demy: Wild Embrace [2023] hardback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/products/demy-hb-wild-embrace-connecting-to-the-wonder-of-ireland-s-natural-world-9781399711890-40598574760226_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Paul Williams: The Monk [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/files/williams-paul-monk-the-the-life-and-crimes-of-i-9781805460312-51080928461139_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Rebecca F Kuang: Yellowface [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/products/kuang-rebecca-f-yellowface-9780008532789-49010814222675_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Tan Twan Eng: House Of Doors The [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/products/eng-tan-twan-the-house-of-doors-9781838858308-49010856362323_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        }
+    ],
+    "Crime Fiction": [
+        {
+            "bookTitle": "Books Crime Fiction 6 Book Mystery Box - New Books",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/products/chapters-bookstore-crime-fiction-6-book-mystery-box-new-books-33044353286329_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Alex Michaelides: The Maidens [2021] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/products/michaelides-alex-maidens-tpb-z20-9781409181675-32171485495481_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Paul Williams: The Monk [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/files/williams-paul-monk-the-the-life-and-crimes-of-i-9781805460312-51080928461139_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Rebecca F Kuang: Yellowface [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/products/kuang-rebecca-f-yellowface-9780008532789-49010814222675_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Tan Twan Eng: House Of Doors The [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/products/eng-tan-twan-the-house-of-doors-9781838858308-49010856362323_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Lesley Pearse: Betrayal [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/files/pearse-lesley-lesley-pearse-betrayal-2023-paperback-9780241544969-51080850506067_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        }
+    ],
+    "Science Fiction": [
+        {
+            "bookTitle": "Books Sci Fi & Fantasy 6 Book Mystery Box",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/products/chapters-bookstore-sci-fi-fantasy-6-book-mystery-box-33044773404857_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Pierce Brown: Light Bringer [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/files/brown-pierce-pierce-brown-light-bringer-2023-paperback-9781473646810-51189138850131_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Tan Twan Eng: House Of Doors The [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/products/eng-tan-twan-the-house-of-doors-9781838858308-49010856362323_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Lesley Pearse: Betrayal [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/files/pearse-lesley-lesley-pearse-betrayal-2023-paperback-9780241544969-51080850506067_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Paul Williams: The Monk [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/files/williams-paul-monk-the-the-life-and-crimes-of-i-9781805460312-51080928461139_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Rebecca F Kuang: Yellowface [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/products/kuang-rebecca-f-yellowface-9780008532789-49010814222675_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        }
+    ],
+    "Young Readers": [
+        {
+            "bookTitle": "Paul Williams: The Monk [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/files/williams-paul-monk-the-the-life-and-crimes-of-i-9781805460312-51080928461139_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Rebecca F Kuang: Yellowface [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/products/kuang-rebecca-f-yellowface-9780008532789-49010814222675_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Rebecca F Kuang: Yellowface [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/products/kuang-rebecca-f-yellowface-9780008532789-49010814222675_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        },
+        {
+            "bookTitle": "Tan Twan Eng: House Of Doors The [2023] paperback",
+            "bookPrice": "13.99",
+            "available": "21",
+            "imageUrl": "https://chaptersbookstore.com/cdn/shop/products/eng-tan-twan-the-house-of-doors-9781838858308-49010856362323_540x.jpg",
+            "bookDescription": "A deeply moving novel about a boy and his dream, from the prize-winning author of As You Were Jamie O'Neill loves the colour red. He also loves tall trees, patterns, rain that comes with wind, the curvature of many objects, books with..."
+        }
+    ]
+}
